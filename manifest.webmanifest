@@ -1,6 +1,6 @@
 {
-  "name": "BCI Staff Attendance",
-  "short_name": "BCI Staff",
+  "name": "BCI Growth System",
+  "short_name": "BCI Growth",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
